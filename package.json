@@ -1,0 +1,11 @@
+{
+  "name": "alexa-demo",
+  "version": "1.0.0",
+  "description": "Alexa Lister",
+  "main": "handler.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "aws-sdk": "^2.263.1",
+    "serverless": "^1.78.1"
+  }
+}
